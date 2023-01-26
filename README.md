@@ -1,1 +1,3 @@
-# billing
+# Billing
+
+This is a Java program that calculates the total price of a shopping bill. It allows the user to input multiple products and their details (name, quantity, and price per item). The program uses a class called "Product" which has properties such as product name, quantity, price and total price. The class also has a constructor that initializes these properties, and a display method that formats and prints the product details. The main class is called "ShoppingBill" which uses a do-while loop to repeatedly ask the user for product details. The user can enter multiple products and the program will keep adding the total prices of all the products entered by the user. Finally, the program will display all the products entered by the user along with the overall price. The program uses a Scanner object to get input from the user, and an ArrayList to store the products.
